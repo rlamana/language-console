@@ -1,0 +1,10 @@
+scopeName: 'source.console'
+name: 'Console'
+fileTypes: [ 'console' ]
+limitLineLength: false
+patterns: [
+  {
+    name: 'console.prompt'
+    match: '^\\s{0,3}[\\w\\d\\[\\]()@-]*[>%$#]'
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "name": "language-console",
+  "version": "0.0.1",
+  "description": "A simple language grammar package to highlight console prompt, input and output",
+  "repository": "https://github.com/rlamana/language-console",
+  "keywords": [
+    "syntax",
+    "highlighting",
+    "grammar",
+    "console"
+  ],
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
